@@ -1,0 +1,9 @@
+# file: .github/workflows/show-directory.yml
+name: show-directory
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: make say-hello
