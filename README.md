@@ -1,1 +1,2 @@
 hexlet-my-first-workflow
+[![show-directory](https://github.com/webdron/hexlet-my-first-workflow-/actions/workflows/print-hello.yml/badge.svg)](https://github.com/webdron/hexlet-my-first-workflow-/actions/workflows/print-hello.yml)
